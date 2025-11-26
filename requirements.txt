@@ -1,0 +1,7 @@
+pandas
+requests
+dotenv
+pyodbc
+python-dotenv
+sqlalchemy
+pyinstaller
